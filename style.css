@@ -1,17 +1,17 @@
 /* responsive phone */
 
 :root {
-  font-size: 2em;
+  font-size: 100%;
 }
 /* responsive tablet */
 @media (min-width: 796px) {
   :root {
-    font-size: 2.5em;
+    font-size: 125%;
   }
 }
 /* responsive desktop */
 @media (min-width: 1025px) {
   :root {
-    font-size: 1em;
+    font-size: 150%;
   }
 }
