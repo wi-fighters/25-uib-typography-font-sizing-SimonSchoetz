@@ -1,0 +1,16 @@
+/* responsive phone */
+body {
+  font-size: 2em;
+}
+/* responsive tablet */
+@media (min-width: 796px) {
+  body {
+    font-size: 2.5em;
+  }
+}
+/* responsive desktop */
+@media (min-width: 1025px) {
+  body {
+    font-size: 1em;
+  }
+}
